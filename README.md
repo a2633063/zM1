@@ -41,7 +41,7 @@
 
 - [x] 通过mqtt连入homeassistant(需要更新homeassistant配置文件)
 
-- [ ] 配合zA1实现联动功能(后续增加此功能) zA1固件见[zA1空气净化器](https://github.com/a2633063/zA1)
+- [x] 配合zA1实现联动功能(已增加此功能,调试中,建议有ha/nr的使用服务器的自动化功能) zA1固件见[zA1空气净化器](https://github.com/a2633063/zA1)
 
   
 
