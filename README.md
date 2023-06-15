@@ -54,7 +54,7 @@
 
 [开始](#开始)
 
-~~[激活码说明](#激活码说明)~~
+[~~激活码说明~~ 无需激活](#激活码说明)
 
 [拆机接线及烧录固件相关](#拆机接线及烧录固件相关)
 
@@ -79,7 +79,7 @@
 - 使用此固件,需要app端配合,见[SmartControl_Android_MQTT](https://github.com/a2633063/SmartControl_Android_MQTT).
 - app只有android,因ios限制,本人不考虑免费做ios开发.(不要再问是否有ios端).
 
-> 后续会支持homeassistant,对homeassistant不太熟,所以可能需要点时间.
+> 已经支持homeassistant
 >
 > 虽然没有ios端,但固件支持homeassistant,可以使用安卓APP配置完成后,连入homeassistant后,使用ios控制. APP主要仅为第一次使用配对网络及配置mqtt服务器时使用,之后可以用homeassistant控制不再使用app.
 
@@ -99,13 +99,10 @@
 
 
 
-## ~~激活码说明~~
+## ~~激活码说明~~ 
 
 不需要激活.
 
-~~为防止被不良商用,直接了必须使用激活码激活的功能.暂时不提供激活,仅测试人员可申请.~~
-
-~~激活方式见[开始使用中的激活~~](https://github.com/a2633063/zM1/wiki/开始使用#激活)
 
 ## 拆机接线及烧录固件相关
 
